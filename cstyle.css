@@ -1,0 +1,305 @@
+.header{
+    width: 100%;
+    height: 383px;
+    background-color: #ee2a24;
+}
+
+.logo{
+    height: 500px;
+    width: 10%;
+    padding-left: 5%;
+
+}
+.cello{
+    width: 375px;
+    height: 378px;
+    padding-top: 3px;
+    padding-left: 259px;
+}
+
+.header-content ul{
+    font-size: 60px;
+    
+    display: flex;
+    list-style: none;
+    padding-left: 19%;
+    margin-top: 0%;
+}
+    
+.header-content li{
+    padding-left: 3%;
+    margin-top: -7%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+
+
+}
+.social-logos{
+    height: 200px;
+    width: 30%;
+    margin-left: 67%;
+    margin-top: -503px;
+    
+
+}
+.header-logo-facebook{
+    padding-left: 10%;
+}
+
+.social-logos td{
+    height:300px;
+    width: 300px;
+}
+.logo-line1{
+    padding-left: 1%;
+}
+.logo-line2{
+    padding-left: 1%;
+}
+.logo-line3{
+    padding-left: 1%;
+}
+.background1{
+    height: 2934px;
+    width: 100%;
+    background-image: url("https://www.cellowriting.com/public/uploads/spotlights/15b979772c886f_nlpoqghejkmif.jpeg");
+    background-size: cover;
+}
+.background2{
+    background-color:#fff;
+    height: 4480px;
+    width: 100%;
+}
+.horizontal2{
+    width:100%;
+    height:40px;
+    background-color: #ee2a24;
+}
+.horizontal1{
+    width:100%;
+    height:20px;
+    background-color: #fff;
+}
+.background2-text1 h1{
+    
+    text-align: center;
+    padding-top: 4%;
+    font-size: 90px;
+    color: #ee2a24;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.background2-text2 h3{
+    font-size:80px;
+    color: black;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.background2-img1 ul{
+    display: flex;
+    text-align: none;
+    padding-inline: 13%;
+    padding-top: 3%;
+
+}
+.background2-img1 li{
+    padding-left: 12%;
+    margin-inline: -5%;
+}
+.img01{
+    height: 1621px;
+    width: 1221px;
+
+}
+.img02{
+    height: 1621px;
+    width: 1221px;
+}
+.img03{
+    height: 1621px;
+    width: 1221px;
+
+}
+.background2-img2 ul{
+    display: flex;
+    padding-inline: 24%;
+    padding-top: 1%;
+}
+.background2-img2 li{
+    padding-left: 12%;
+    margin-inline: -5%;
+}
+.img04{
+    height: 1621px;
+    width: 1221px;
+
+}
+.img05{
+    height: 1621px;
+    width: 1221px;
+}
+.footer{
+    height: 2500px;
+    width: 100%;
+    background-color: #ee2a24;
+}
+.footer-wrap{
+    display: flex;
+    padding-inline: 6%;
+    padding-top: 5%;
+}
+.footer-wrap1 ul{
+    list-style: none;
+}
+.footer-line1{
+    height:150px;
+    width:300px;
+}
+.footer-logo{
+    width: 375px;
+    height: 400px;
+    padding-top: 51px;
+}
+.footer-wrap1 li h1{
+    color: white;
+    font-size: 80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.footer-wrap1 li {
+    color: white;
+    font-size: 60px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.para p{
+    font-size: 60px;
+    color: white;
+    line-height: 100px;
+
+    font-family:' Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.footer-wrap2 li h1{
+    color: white;
+    font-size: 80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.footer-wrap2 ul{
+    list-style: none;
+}
+.footer-line2{
+    height:100px;
+    width:300px;
+}
+.footer-wrap2 li {
+    color: white;
+    font-size: 50px;
+    padding-bottom: 5%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.footer-wrap3 li h1{
+    color: white;
+    font-size: 80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.footer-wrap3 ul{
+    list-style: none;
+}
+.footer-line3{
+    height:100px;
+    width:300px;
+}
+.footer-wrap3 li {
+    color: white;
+    font-size: 60px;
+    padding-bottom: 5%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.footer-wrap3{
+    padding-left: 5%;
+}
+.footer-wrap4 li h1{
+    color: white;
+    font-size: 80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.footer-wrap4{
+    padding-left: 3%;
+}
+.footer-line4{
+    height:100px;
+    width:300px;
+}
+.footer-wrap4 ul{
+    list-style: none;
+    padding-inline: 10%;
+}
+.phone ul{
+
+    display: flex;
+    padding-bottom: 5%;
+ }
+ .phone li{
+    font-size: 60px;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ .mail ul{
+
+    display: flex;
+    padding-bottom: 5%;
+ }
+ .mail li{
+    font-size: 60px;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ .location ul{
+
+    display: flex;
+    padding-bottom: 5%;
+ }
+ .location li{
+    font-size: 60px;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ .footer-social-icon ul{
+    display: flex;
+    padding-bottom: 5%;
+    padding-left: 5%;
+    
+ }
+ .footer-wrap1 {
+    padding-left: 5%;
+ }
+ .footer-wrap2{
+    padding-left: 10%;
+ }
+ .footer-line11{
+    height:80px;
+    width:100px;
+}
+.footer-line12{
+    height:80px;
+    width:100px;
+}
+.footer-line13{
+    height:80px;
+    width:100px;
+}
+.end p{
+    font-size: 60px;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.end{
+    padding-top: 6%;
+    width: 100%;
+}
+
+
